@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">noMimimi</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Curtidos</string>
+    <string name="title_notifications">Meu perfil</string>
+
+    <string name="mimimi_item_hashtag">#Hashtag</string>
+    <string name="mimimi_item_content">
+        Aqui não tem nada de mimimi, politica, religiao, relacionamento.
+        Tudo que ninguém tem coragem de falar, fala aqui, sem medo
+        nem represária, tudo no anonimato.
+    </string>
+    <string name="mimimi_item_likeds"> likes</string>
+    <string name="title_activity_sign_up">Me cadastrar</string>
+    <string name="title_activity_sign_in">Realizar meu login</string>
+
+    <!-- SignIn Activity -->
+    <string name="signin_email">Email de cadastro</string>
+    <string name="signin_password">Senha de acesso</string>
+    <string name="signin_login">Acessar</string>
+    <string name="signin_to_signup">Não tem conta, registre-se!</string>
+
+    <!-- SignUp Activity -->
+    <string name="signup_username">Seu nome</string>
+    <string name="signup_email">Email de cadastro</string>
+    <string name="signup_password">Senha de acesso</string>
+    <string name="signup_create">Criar conta</string>
+    <string name="signup_create_success">Usuário cadastrado</string>
+    <string name="signup_create_fail_email_exist">Email já cadastrado, tente novamente</string>
+
+
+    <!-- NewPost Activity -->
+    <string name="newpost_hashtag">#Hashtags aqui</string>
+    <string name="newpost_content">Fale o que quiser</string>
+    <string name="newpost_create">Postar</string>
+    <string name="title_activity_new_post">Nova postagem</string>
+
+
+    <!-- Erros -->
+    <string name="erro_empty">Não pode ser vázio</string>
+    <string name="erro_invalid">Inválido, verifique e tente novamente</string>
+    <string name="erro_no_user">Sem usuário Logado, necessário realizar login para esta ação.</string>
+
+
+    <!-- MyProfile -->
+    <string name="profile_email">Email </string>
+    <string name="profile_name"> Olá </string>
+    <string name="profile_created_at"> Se cadastrou em </string>
+    <string name="profile_posts_created">Tem %d criados</string>
+
+</resources>
